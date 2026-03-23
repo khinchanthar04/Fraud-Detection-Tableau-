@@ -61,7 +61,10 @@ Evaluation of current fraud prevention mechanisms reveals critical gaps:
 
 ```
 ├── 14684190_KhinChan_Fraud_Detection.pptx   # Full presentation and dashboards
-└── README.md                                 # This file
+├── 14684190_KhinChan_Fraud_Detection.twbx   # Tableau file
+├── creditcard_fraud_detection.csv           # Full presentation and dashboards
+└── README.md                                # This file
+
 ```
 
 ---
